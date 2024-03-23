@@ -1,1 +1,1 @@
-# JS_challenges
+# 25 java script_challenges
